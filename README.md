@@ -5,3 +5,5 @@
 </p>
 
 A lower level implementation driver for the 16x2 common 8-bit LCD's available. it will allow for more easily using custom characters etc. The LCD will operate in 8-bit mode.
+
+(For a high level easier-to-use driver, it is recommended to use Adafruit's LiquidCrystal Display driver available in the Arduino Library Manager!)
